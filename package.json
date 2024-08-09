@@ -1,0 +1,32 @@
+{
+  "name": "core-contributions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halvaradopUEB/core-contributions.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "repository",
+    "contributions",
+    "open-source"
+  ],
+  "author": "Hernan Alvarado <hernanvid123@gmail.com | halvaradop@unbosque.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halvaradopUEB/core-contributions/issues"
+  },
+  "homepage": "https://github.com/halvaradopUEB/core-contributions#readme",
+  "devDependencies": {
+    "@halvaradop/tailwindcss-utilities": "^0.2.2",
+    "@halvaradop/ts-utility-types": "^0.4.0",
+    "@types/node": "^22.2.0",
+    "typescript": "^5.5.4"
+  }
+}
