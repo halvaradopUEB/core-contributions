@@ -27,6 +27,7 @@
     "@halvaradop/tailwindcss-utilities": "^0.2.2",
     "@halvaradop/ts-utility-types": "^0.4.0",
     "@types/node": "^22.2.0",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
   }
 }
